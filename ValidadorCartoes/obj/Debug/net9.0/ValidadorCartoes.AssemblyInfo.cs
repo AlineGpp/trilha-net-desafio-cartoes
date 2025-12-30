@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidadorCartoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38c34b499317d113c5742e561c5ede1d05cc393")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidadorCartoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidadorCartoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
