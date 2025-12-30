@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lfg19w8mGRY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aline GPP\\Documents\\C#\\trilha-net-desafio-cartoes\\ValidadorCartoes\\ValidadorCartoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aline GPP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Aline GPP\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
